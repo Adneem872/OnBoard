@@ -2,7 +2,7 @@
 name: "Adneem Al Tahsan "
 slack_handle: "@adneemtahsan"
 github_handle: "@Adneem872"
-tutorial: # "https://jams.hackclub.com/jam/hacker-card"
+tutorial: "https://jams.hackclub.com/jam/hacker-card"
 ---
 
 # YOUR PROJECT 
